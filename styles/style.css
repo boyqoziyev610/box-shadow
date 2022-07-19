@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    width: 400px;
+    height: 400px;
+    background: red;
+    margin: 20px ;
+ 
+    display: inline-block;
+}
+.card:hover{
+    background: blue;
+}
+
+
+.card2{
+    width: 400px;
+    height: 400px;
+    background: aqua;
+    margin: 20px;
+    display: inline-block;
+}
+
+.card2:hover{
+    background: black;
+}
+
+.card3{
+    width:400px ;
+    height:400px ;
+    background:yellow ;
+    margin:20px ;
+    display: inline-block;
+}
+
+.card3:hover{
+    background: orange;
+}
+
+
+
+/* :hover , :active, :focus , :visited, :checked */
+
+
+
+
+
+
+
